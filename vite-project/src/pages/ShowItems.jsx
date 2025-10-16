@@ -21,7 +21,7 @@ const ShowItems = () => {
         setIsLoading(true);
         setError(null);
 
-        axios.get('http://localhost:3000/api/items')
+        axios.get('https://catalogo-06.onrender.com/api/items')
             .then((response) => {
                 setProducts(response.data);
                 setIsLoading(false);

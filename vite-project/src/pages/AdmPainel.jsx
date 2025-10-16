@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import axios from 'axios';
 
 // URL base da sua API
-const API_BASE_URL = 'http://localhost:3000/api/items';
+const API_BASE_URL = 'https://catalogo-06.onrender.com/api/items';
 
 // =======================
 // Função Utilitária para Conversão Base64
