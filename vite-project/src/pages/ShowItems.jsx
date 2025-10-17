@@ -93,7 +93,7 @@ const ShowItems = () => {
     return (
         <div className="container mx-auto p-4 sm:p-8 bg-gray-50 min-h-screen relative">
             <h1 className="text-4xl font-extrabold text-gray-900 mb-10 text-center border-b-4 border-indigo-600 pb-2">
-                Nosso Catálogo de Produtos
+                Bellavine
             </h1>
 
             {/* Área de Busca e Filtro */}
